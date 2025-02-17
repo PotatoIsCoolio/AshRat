@@ -1,0 +1,1 @@
+requests discord.py psutil pyautogui pyperclip scapy pypiwin32

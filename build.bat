@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --uac-admin -i NONE DiscordBot.py
